@@ -6,7 +6,7 @@ Zhen Liu, Xiao-Jun Wu, Zhenqiu Shu.
 
 Pattern Analysis and Applications, 2019, 22(4): 1527–1535.
 
-main.m: Run this file
+SA_DSRC_demo.m: Run this file
 
 This code takes the ORL database as an example.
 
